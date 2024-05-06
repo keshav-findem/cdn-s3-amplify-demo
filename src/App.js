@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          Fix to be deployed in preprod first. Waiting QA verification..
         </p>
         <a
           className="App-link"
